@@ -1,0 +1,1657 @@
+﻿Log file open, 04/14/18 10:39:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MojamTruthFPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-394472081) SRandInit(-394472081).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204076
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.649s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-RUO20BN (192.168.44.54:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.14-14.40.01:714][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-14.40.01:715][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.14-14.40.01:762][  0]LogInit: Computer: DESKTOP-RUO20BN
+[2018.04.14-14.40.01:762][  0]LogInit: User: JonathanChouinard
+[2018.04.14-14.40.01:762][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.14-14.40.01:762][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2018.04.14-14.40.01:762][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.14-14.40.01:762][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-14.40.01:762][  0]LogMemory: Process Physical Memory: 275.88 MB used, 275.88 MB peak
+[2018.04.14-14.40.01:762][  0]LogMemory: Process Virtual Memory: 268.07 MB used, 268.07 MB peak
+[2018.04.14-14.40.01:762][  0]LogMemory: Physical Memory: 4790.10 MB used,  3327.17 MB free, 8117.27 MB total
+[2018.04.14-14.40.01:762][  0]LogMemory: Virtual Memory: 687.89 MB used,  3327.17 MB free, 134217728.00 MB total
+[2018.04.14-14.40.01:835][  0]LogInit: Using OS detected language (en-US).
+[2018.04.14-14.40.01:836][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.14-14.40.01:958][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.14-14.40.02:607][  0]LogStreaming: Display: Took  0.772s to EndInitTextLocalization.
+[2018.04.14-14.40.02:607][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.14-14.40.02:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.14-14.40.02:690][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.14-14.40.06:376][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.14-14.40.06:513][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2018.04.14-14.40.06:513][  0]LogD3D11RHI:       2010/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.14-14.40.06:529][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.04.14-14.40.06:529][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.14-14.40.06:532][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.14-14.40.06:532][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.14-14.40.06:532][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.14-14.40.06:543][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.14-14.40.06:543][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.14-14.40.06:543][  0]LogWindows: EnumDisplayDevices:
+[2018.04.14-14.40.06:543][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.04.14-14.40.06:544][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.14-14.40.06:544][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.14-14.40.06:544][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.14-14.40.06:544][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2018.04.14-14.40.06:544][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.14-14.40.06:544][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.14-14.40.06:544][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.04.14-14.40.06:593][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.14-14.40.06:593][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.14-14.40.06:593][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.14-14.40.06:619][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.14-14.40.06:620][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Intermediate/Shaders/WorkingDirectory/4168/).
+[2018.04.14-14.40.06:621][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JonathanChouinard/AppData/Local/Temp/UnrealShaderWorkingDir/30246B63415ECAC9119E7AB479745F79/'.
+[2018.04.14-14.40.07:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.14-14.40.07:363][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.14-14.40.07:385][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.14-14.40.07:406][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.14-14.40.07:437][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.14-14.40.07:459][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.14-14.40.07:486][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.14-14.40.07:513][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.14-14.40.07:532][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.14-14.40.07:554][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.14-14.40.07:575][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.14-14.40.07:603][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.14-14.40.07:623][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.14-14.40.07:643][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.14-14.40.07:665][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.14-14.40.07:714][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.14-14.40.07:714][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.14-14.40.07:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.14-14.40.07:748][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.14-14.40.07:805][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.14-14.40.07:826][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.14-14.40.07:841][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.14-14.40.07:860][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.14-14.40.07:879][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.14-14.40.07:904][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.14-14.40.07:904][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.14-14.40.08:075][  0]LogXGEController: Cleaning working directory: C:/Users/JonathanChouinard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.14-14.40.08:075][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.14-14.40.08:075][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.14-14.40.08:075][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.14-14.40.10:745][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: Loaded boot cache 0.38s 88MB C:/Users/JonathanChouinard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JonathanChouinard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.14-14.40.11:123][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.14-14.40.11:150][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.14-14.40.11:163][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JonathanChouinard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.14-14.40.11:188][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.14-14.40.11:189][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.14-14.40.11:189][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-14.40.11:189][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-14.40.12:672][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.04.14-14.40.14:805][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-14.40.15:113][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.14-14.40.15:118][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.14-14.40.15:118][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.14-14.40.15:118][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.14-14.40.15:118][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.14-14.40.15:118][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.14-14.40.15:192][  0]LogNetVersion: MojamTruthFPS , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3850477144)
+[2018.04.14-14.40.16:696][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.171006 seconds
+[2018.04.14-14.40.16:703][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.14-14.40.16:703][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.14-14.40.16:703][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.14-14.40.23:324][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.14-14.40.23:365][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.14-14.40.23:900][  0]SourceControl: Source control is disabled
+[2018.04.14-14.40.23:901][  0]SourceControl: Source control is disabled
+[2018.04.14-14.40.23:926][  0]SourceControl: Source control is disabled
+[2018.04.14-14.40.23:949][  0]SourceControl: Source control is disabled
+[2018.04.14-14.40.24:595][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.14-14.40.24:796][  0]LogOcInput: OculusInput pre-init called
+[2018.04.14-14.40.24:983][  0]LogEngine: Initializing Engine...
+[2018.04.14-14.40.24:984][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.14-14.40.24:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-14.40.24:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-14.40.25:537][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.14-14.40.25:550][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-14.40.26:660][  0]LogInit: FAudioDevice initialized.
+[2018.04.14-14.40.26:783][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/JonathanChouinard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.14-14.40.26:801][  0]LogInit: Texture streaming: Enabled
+[2018.04.14-14.40.26:833][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.14-14.40.26:833][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={17B10021-4B75-4AA2-D703-019183BE676D}
+[2018.04.14-14.40.26:859][  0]LogInit: Transaction tracking system initialized
+[2018.04.14-14.40.26:908][  0]BlueprintLog: New page: Editor Load
+[2018.04.14-14.40.27:044][  0]LocalizationService: Localization service is disabled
+[2018.04.14-14.40.27:511][  0]LogConsoleResponse: Display: 
+[2018.04.14-14.40.28:108][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.14-14.40.28:108][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.14-14.40.28:108][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.14-14.40.28:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-14.40.28:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-14.40.28:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/' took 0.02s
+[2018.04.14-14.40.28:735][  0]SourceControl: Source control is disabled
+[2018.04.14-14.40.28:735][  0]Cmd: MAP LOAD FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-14.40.28:735][  0]LightingResults: New page: Lighting Build
+[2018.04.14-14.40.28:741][  0]MapCheck: New page: Map Check
+[2018.04.14-14.40.28:741][  0]LightingResults: New page: Lighting Build
+[2018.04.14-14.40.29:580][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [21.577311ms] /Game/Mojam/Character/Vampire/Character/SK_MisterVampire.SK_MisterVampire
+[2018.04.14-14.40.29:732][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-14.40.29:750][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-14.40.29:761][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-14.40.29:773][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-14.40.29:792][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-14.40.29:863][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.252ms to complete.
+[2018.04.14-14.40.29:863][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.128
+[2018.04.14-14.40.29:938][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.14-14.40.29:938][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.14-14.40.30:122][  0]LogCollectionManager: Loaded 0 collections in 0.002579 seconds
+[2018.04.14-14.40.30:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/Collections/' took 0.01s
+[2018.04.14-14.40.30:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Developers/JonathanChouinard/Collections/' took 0.01s
+[2018.04.14-14.40.30:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Collections/' took 0.01s
+[2018.04.14-14.40.30:167][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.14-14.40.30:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2452 classes and 558 folders.
+[2018.04.14-14.40.30:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.14-14.40.30:778][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.14-14.40.30:784][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.14-14.40.30:814][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-14.40.30:822][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.14-14.40.30:865][  0]LogSlate: Took 0.021873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.14-14.40.31:112][  0]LogRenderer: Reallocating scene render targets to support 860x444 Format 9 NumSamples 1 (Frame:1).
+[2018.04.14-14.40.31:394][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.14-14.40.31:394][  0]LogLoad: (Engine Initialization) Total time: 34.56 seconds
+[2018.04.14-14.40.31:394][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.14-14.40.31:433][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.04.14-14.40.31:578][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.14-14.40.31:646][  2]LogAssetRegistry: Asset discovery search completed in 18.9960 seconds
+[2018.04.14-14.40.31:648][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2018.04.14-14.40.32:532][ 35]LogSlate: Took 0.008444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.14-14.40.36:345][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.14-14.40.42:479][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.40.44:287][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.40.47:145][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.04.14-14.40.50:082][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.40.53:586][541]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.04.14-14.40.53:610][541]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.04.14-14.40.55:448][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2018.04.14-14.40.55:803][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.14-14.40.58:561][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.04.14-14.40.59:114][731]Cmd: EDIT CUT
+[2018.04.14-14.40.59:128][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.40.59:149][731]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.04.14-14.41.01:550][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.41.03:282][866]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.04.14-14.41.04:282][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.41.32:585][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.41.35:628][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2018.04.14-14.41.36:131][722]Cmd: EDIT CUT
+[2018.04.14-14.41.36:147][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.41.36:168][722]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.04.14-14.41.44:376][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.41.49:244][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.41.58:978][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.14-14.42.01:712][507]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.14-14.42.11:183][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.42.11:938][853]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.04.14-14.42.13:284][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.42.29:518][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.43.22:041][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.43.22:560][291]LogSavePackage: Save=271.99ms
+[2018.04.14-14.43.22:560][291]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap8C1165D844AFE94ADAEDCCB9882037F3.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-14.43.22:566][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-14.43.22:642][291]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.536
+[2018.04.14-14.43.51:726][371]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.04.14-14.43.52:568][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2018.04.14-14.44.01:928][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.44.18:336][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.45.02:240][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.14-14.45.03:578][869]Cmd: EDIT CUT
+[2018.04.14-14.45.03:597][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.45.03:615][869]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.04.14-14.45.11:092][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.45.23:530][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.45.24:486][595]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.04.14-14.45.25:155][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.45.25:581][619]LogSavePackage: Save=266.96ms
+[2018.04.14-14.45.25:581][619]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap3469EC8A4A323D8A53239ABF33498D3E.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-14.45.25:585][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-14.45.25:631][619]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.433
+[2018.04.14-14.45.28:980][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.45.39:056][ 78]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2018.04.14-14.45.41:290][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.45.58:405][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.46.16:551][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.46.32:691][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2018.04.14-14.46.33:230][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall7)
+[2018.04.14-14.46.33:702][832]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall6)
+[2018.04.14-14.46.34:872][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2018.04.14-14.46.35:256][886]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall7)
+[2018.04.14-14.46.35:846][906]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall12)
+[2018.04.14-14.46.36:288][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall13)
+[2018.04.14-14.46.36:623][933]Cmd: EDIT CUT
+[2018.04.14-14.46.36:643][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.36:643][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.36:643][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.36:644][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.36:666][933]LogEditorActor: Deleted 4 Actors (0.034 secs)
+[2018.04.14-14.46.44:521][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.04.14-14.46.45:035][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall10)
+[2018.04.14-14.46.45:657][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall15)
+[2018.04.14-14.46.46:047][262]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall16)
+[2018.04.14-14.46.46:352][273]Cmd: EDIT CUT
+[2018.04.14-14.46.46:369][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.46:370][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.46:370][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.46:370][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.46:396][273]LogEditorActor: Deleted 4 Actors (0.038 secs)
+[2018.04.14-14.46.53:754][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.04.14-14.46.54:065][545]Cmd: EDIT CUT
+[2018.04.14-14.46.54:079][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.46.54:098][545]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.04.14-14.47.06:566][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2018.04.14-14.47.12:771][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.47.23:048][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.47.32:504][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.47.39:181][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2018.04.14-14.47.39:541][ 81]Cmd: EDIT CUT
+[2018.04.14-14.47.39:560][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.47.39:581][ 81]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.04.14-14.47.44:348][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.14-14.47.47:464][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.04.14-14.47.47:879][377]Cmd: EDIT CUT
+[2018.04.14-14.47.47:905][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.47.47:924][377]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.04.14-14.47.52:146][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.04.14-14.47.53:338][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2018.04.14-14.47.53:628][572]Cmd: EDIT CUT
+[2018.04.14-14.47.53:651][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.47.53:676][572]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.04.14-14.48.01:190][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2018.04.14-14.48.01:549][843]Cmd: EDIT CUT
+[2018.04.14-14.48.01:563][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.48.01:583][843]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.04.14-14.48.06:306][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.48.06:882][ 11]LogSavePackage: Save=407.38ms
+[2018.04.14-14.48.06:882][ 11]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMapB99AFD344789F2242A0015B59A77E63B.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-14.48.06:888][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-14.48.06:943][ 11]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.596
+[2018.04.14-14.48.31:342][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.48.31:430][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-14.48.31:461][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-14.48.31:462][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-14.48.31:474][913]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 6:48:31 AM)
+[2018.04.14-14.48.31:474][913]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-14.48.31:490][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015914s)
+[2018.04.14-14.48.31:492][913]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-14.48.31:493][913]LogPlayLevel: PIE: World Init took: (0.002570s)
+[2018.04.14-14.48.31:494][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019291s)
+[2018.04.14-14.48.31:537][913]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-14.48.31:561][913]LogInit: FAudioDevice initialized.
+[2018.04.14-14.48.31:881][913]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-14.48.31:893][913]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-14.48.31:893][913]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-14.48.31:894][913]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-10.48.31
+[2018.04.14-14.48.31:916][913]LogWorld: Bringing up level for play took: 0.026431
+[2018.04.14-14.48.31:944][913]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.14-14.48.31:965][913]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.77
+[2018.04.14-14.48.31:966][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-14.48.31:972][913]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.32:316][921]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-14.48.33:152][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.33:307][954]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.33:515][962]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.33:864][974]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.34:117][982]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.34:589][994]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.34:710][995]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.34:829][996]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.35:078][997]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.35:446][  0]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.35:809][  3]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.35:929][  4]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.36:050][  5]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.36:294][  7]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.36:548][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.37:323][ 15]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-14.48.37:625][ 17]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.38:107][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-14.48.38:711][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-14.48.39:194][ 30]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-14.48.40:048][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-14.48.40:077][ 37]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-14.48.40:220][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-14.48.51:066][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2018.04.14-14.48.52:316][279]Cmd: EDIT CUT
+[2018.04.14-14.48.52:325][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.48.52:347][279]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.04.14-14.49.06:758][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.49.22:467][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.49.56:239][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.50.21:773][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.50.30:940][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.51.25:711][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.51.44:478][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.51.52:962][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.14-14.52.06:209][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.52.12:332][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.52.31:844][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.52.32:561][360]LogSavePackage: Save=514.03ms
+[2018.04.14-14.52.32:561][360]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap467980C543B5A3C937553D9953946A2B.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-14.52.32:571][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-14.52.32:650][360]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.774
+[2018.04.14-14.52.33:605][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.52.35:191][449]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.04.14-14.52.47:591][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.53.00:497][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-14.53.13:048][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2018.04.14-14.53.14:749][496]Cmd: EDIT CUT
+[2018.04.14-14.53.14:783][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.53.14:824][496]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2018.04.14-14.53.33:617][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2018.04.14-14.53.35:164][235]Cmd: EDIT CUT
+[2018.04.14-14.53.35:181][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.53.35:203][235]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.04.14-14.53.41:258][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube22)
+[2018.04.14-14.53.41:708][476]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube23)
+[2018.04.14-14.53.47:541][687]LogEditorViewport: Clicking on Actor (LMB): BP_MansionBoss_C (BP_MansionBoss)
+[2018.04.14-14.53.48:750][725]LogEditorViewport: Clicking on Actor (CTRL LMB): Mojam_PlayerCharacter_C (FirstPersonCharacter)
+[2018.04.14-14.53.55:292][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2018.04.14-14.53.56:302][988]Cmd: EDIT CUT
+[2018.04.14-14.53.56:321][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.53.56:390][988]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2018.04.14-14.53.56:736][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2018.04.14-14.53.57:178][ 17]Cmd: EDIT CUT
+[2018.04.14-14.53.57:197][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-14.53.57:216][ 17]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.04.14-14.53.57:988][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_ThrowableObject_C (BP_ThrowableObject)
+[2018.04.14-14.53.58:740][ 74]Cmd: EDIT CUT
+[2018.04.14-14.53.58:758][ 74]LogEditorActor: Deleted Actor: BP_ThrowableObject_C
+[2018.04.14-14.53.58:782][ 74]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.04.14-14.53.59:045][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2018.04.14-14.54.09:052][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2018.04.14-14.54.19:881][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube25)
+[2018.04.14-14.54.20:218][837]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube24)
+[2018.04.14-14.54.20:577][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube20)
+[2018.04.14-14.54.20:853][855]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2018.04.14-14.54.21:171][865]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2018.04.14-14.54.22:269][903]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2018.04.14-14.54.22:567][910]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2018.04.14-14.54.27:733][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-14.54.28:371][ 88]LogSavePackage: Save=428.43ms
+[2018.04.14-14.54.28:371][ 88]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMapF098785B4B29F9778497DAAEE869078B.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-14.54.28:380][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-14.54.28:447][ 88]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.681
+[2018.04.14-15.03.51:393][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.03.52:751][231]LogActorFactory: Actor Factory created Armoire
+[2018.04.14-15.03.53:511][258]LogActorFactory: Actor Factory created Armoire
+[2018.04.14-15.04.20:804][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire)
+[2018.04.14-15.04.32:682][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube31)
+[2018.04.14-15.04.33:026][696]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube29)
+[2018.04.14-15.04.33:516][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube33)
+[2018.04.14-15.04.33:962][728]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube35)
+[2018.04.14-15.04.34:949][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube32)
+[2018.04.14-15.04.35:404][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube34)
+[2018.04.14-15.04.35:665][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube35)
+[2018.04.14-15.04.35:803][786]Cmd: EDIT CUT
+[2018.04.14-15.04.35:925][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:926][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:926][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:927][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:927][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:927][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.35:948][786]LogEditorActor: Deleted 6 Actors (0.056 secs)
+[2018.04.14-15.04.36:579][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube30)
+[2018.04.14-15.04.37:406][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube28)
+[2018.04.14-15.04.37:843][856]Cmd: EDIT CUT
+[2018.04.14-15.04.37:858][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.37:879][856]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.04.14-15.04.38:375][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube30)
+[2018.04.14-15.04.38:591][883]Cmd: EDIT CUT
+[2018.04.14-15.04.38:604][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.04.38:631][883]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.04.14-15.04.38:968][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire)
+[2018.04.14-15.04.46:009][154]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire)
+[2018.04.14-15.04.53:997][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire4)
+[2018.04.14-15.04.57:434][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire3)
+[2018.04.14-15.04.57:700][572]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire2)
+[2018.04.14-15.04.57:983][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire)
+[2018.04.14-15.04.59:633][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube27)
+[2018.04.14-15.05.00:566][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube26)
+[2018.04.14-15.05.01:615][703]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube27)
+[2018.04.14-15.05.01:927][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube25)
+[2018.04.14-15.05.02:275][723]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube24)
+[2018.04.14-15.05.02:713][738]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2018.04.14-15.05.03:613][768]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2018.04.14-15.05.04:665][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube20)
+[2018.04.14-15.05.04:944][813]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2018.04.14-15.05.05:569][836]Cmd: EDIT CUT
+[2018.04.14-15.05.05:587][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:587][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:587][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:587][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:588][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:588][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.05:605][836]LogEditorActor: Deleted 6 Actors (0.029 secs)
+[2018.04.14-15.05.06:077][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2018.04.14-15.05.06:489][868]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2018.04.14-15.05.06:677][873]Cmd: EDIT CUT
+[2018.04.14-15.05.06:691][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.06:692][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.06:707][873]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2018.04.14-15.05.07:332][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire)
+[2018.04.14-15.05.07:978][920]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire2)
+[2018.04.14-15.05.08:289][929]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire3)
+[2018.04.14-15.05.08:571][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire4)
+[2018.04.14-15.05.11:918][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube37)
+[2018.04.14-15.05.13:536][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire5)
+[2018.04.14-15.05.13:900][132]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire6)
+[2018.04.14-15.05.14:337][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire7)
+[2018.04.14-15.05.14:812][162]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire8)
+[2018.04.14-15.05.30:639][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube37)
+[2018.04.14-15.05.31:199][742]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube39)
+[2018.04.14-15.05.31:483][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube41)
+[2018.04.14-15.05.31:977][768]Cmd: EDIT CUT
+[2018.04.14-15.05.31:994][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.31:994][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.31:995][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.32:012][768]LogEditorActor: Deleted 3 Actors (0.028 secs)
+[2018.04.14-15.05.32:625][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube43)
+[2018.04.14-15.05.33:282][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube40)
+[2018.04.14-15.05.33:931][840]Cmd: EDIT CUT
+[2018.04.14-15.05.33:947][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.33:947][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.33:964][840]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2018.04.14-15.05.35:552][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube42)
+[2018.04.14-15.05.36:037][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube38)
+[2018.04.14-15.05.36:561][923]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube36)
+[2018.04.14-15.05.36:857][933]Cmd: EDIT CUT
+[2018.04.14-15.05.36:873][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.36:873][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.36:873][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.05.36:896][933]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2018.04.14-15.05.39:218][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire9)
+[2018.04.14-15.05.39:693][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire10)
+[2018.04.14-15.05.49:732][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire17)
+[2018.04.14-15.05.59:715][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire19)
+[2018.04.14-15.05.59:954][744]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire17)
+[2018.04.14-15.06.00:190][749]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire18)
+[2018.04.14-15.06.07:064][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire18)
+[2018.04.14-15.06.07:454][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire9)
+[2018.04.14-15.06.07:751][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire10)
+[2018.04.14-15.06.08:014][ 22]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire17)
+[2018.04.14-15.06.10:888][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire28)
+[2018.04.14-15.06.19:949][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire14)
+[2018.04.14-15.06.20:411][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire13)
+[2018.04.14-15.06.23:998][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire15)
+[2018.04.14-15.06.24:626][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire16)
+[2018.04.14-15.07.01:269][829]LogSavePackage: Save=319.05ms
+[2018.04.14-15.07.01:270][829]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap_Auto1C96E03DF424534BA91AA1D997B9C8F48.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.04.14-15.07.01:274][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.04.14-15.07.01:281][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.405
+[2018.04.14-15.07.01:281][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2018.04.14-15.07.58:282][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.08.17:734][588]LogAssetTools: Warning: Failed to import 'C:\Users\JonathanChouinard\Desktop\sfx_squeak001.ogg'. Unknown extension 'ogg'.
+[2018.04.14-15.08.17:746][588]LogAssetTools: Warning: Failed to import 'C:\Users\JonathanChouinard\Desktop\sfx_squeak002.ogg'. Unknown extension 'ogg'.
+[2018.04.14-15.08.17:760][588]LogAssetTools: Warning: Failed to import 'C:\Users\JonathanChouinard\Desktop\sfx_squeak003.ogg'. Unknown extension 'ogg'.
+[2018.04.14-15.08.17:775][588]LogAssetTools: Warning: Failed to import 'C:\Users\JonathanChouinard\Desktop\sfx_squeak004a.ogg'. Unknown extension 'ogg'.
+[2018.04.14-15.08.17:792][588]LogAssetTools: Warning: Failed to import 'C:\Users\JonathanChouinard\Desktop\sfx_squeak004b.ogg'. Unknown extension 'ogg'.
+[2018.04.14-15.09.57:786][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.09.58:215][938]LogSavePackage: Save=268.89ms
+[2018.04.14-15.09.58:215][938]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap558ADD9E4179CC018A2953A9B840A5BB.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.09.58:222][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.09.58:275][938]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.449
+[2018.04.14-15.10.09:605][326]LogEditorViewport: Clicking Background
+[2018.04.14-15.10.10:089][340]LogEditorViewport: Clicking on Actor (LMB): BP_RoomVolume_C (BP_RoomVolume2)
+[2018.04.14-15.10.11:279][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.10.32:508][102]LogEditorViewport: Clicking on Actor (LMB): BP_RoomVolume_C (BP_RoomVolume3)
+[2018.04.14-15.10.46:965][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.10.55:322][879]LogEditorViewport: Clicking on Actor (LMB): BP_RoomVolume_C (BP_RoomVolume4)
+[2018.04.14-15.11.03:301][141]LogEditorViewport: Clicking on Actor (LMB): BP_RoomVolume_C (BP_RoomVolume5)
+[2018.04.14-15.12.04:431][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2018.04.14-15.12.05:347][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2018.04.14-15.12.05:680][260]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube19)
+[2018.04.14-15.12.06:033][271]Cmd: EDIT CUT
+[2018.04.14-15.12.06:049][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.12.06:050][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.12.06:076][271]LogEditorActor: Deleted 2 Actors (0.035 secs)
+[2018.04.14-15.12.14:990][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.12.15:113][580]LogRenderer: Reallocating scene render targets to support 860x456 Format 9 NumSamples 1 (Frame:225).
+[2018.04.14-15.12.15:157][581]LogActorFactory: Actor Factory created Chair_Lp
+[2018.04.14-15.12.15:743][600]LogActorFactory: Actor Factory created Chair_Lp
+[2018.04.14-15.12.20:861][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.12.21:110][778]LogActorFactory: Actor Factory created Table_LP
+[2018.04.14-15.12.21:511][791]LogActorFactory: Actor Factory created Table_LP
+[2018.04.14-15.12.22:835][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_LP)
+[2018.04.14-15.12.36:544][299]LogEditorViewport: Clicking on Actor (LMB): Mojam_PlayerCharacter_C (FirstPersonCharacter)
+[2018.04.14-15.12.40:498][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.12.40:600][426]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-15.12.40:631][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.12.40:631][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-15.12.40:631][426]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 7:12:40 AM)
+[2018.04.14-15.12.40:631][426]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-15.12.40:819][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187275s)
+[2018.04.14-15.12.40:820][426]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-15.12.40:821][426]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2018.04.14-15.12.40:821][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.189355s)
+[2018.04.14-15.12.40:890][426]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-15.12.40:924][426]LogInit: FAudioDevice initialized.
+[2018.04.14-15.12.41:168][426]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-15.12.41:178][426]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-15.12.41:181][426]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-15.12.41:181][426]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-11.12.41
+[2018.04.14-15.12.41:184][426]LogWorld: Bringing up level for play took: 0.011909
+[2018.04.14-15.12.41:198][426]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.003
+[2018.04.14-15.12.41:198][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.12.41:199][426]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.12.41:486][431]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.12.43:786][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.12.44:348][505]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.12.46:967][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.12.46:997][561]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-15.12.47:054][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.12.49:893][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair_Lp)
+[2018.04.14-15.12.51:335][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.12.56:276][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_LP)
+[2018.04.14-15.12.57:254][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.13.03:724][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.13.38:508][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.13.39:681][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.13.40:394][446]LogSavePackage: Save=509.65ms
+[2018.04.14-15.13.40:394][446]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap7C08B7D44715C7059E9623B99913CB9E.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.13.40:400][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.13.40:484][446]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.781
+[2018.04.14-15.14.00:025][192]Cmd: EDIT PASTE
+[2018.04.14-15.14.09:853][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.14-15.14.16:993][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.14.17:077][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-15.14.17:122][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.14.17:123][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-15.14.17:123][797]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 7:14:17 AM)
+[2018.04.14-15.14.17:123][797]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-15.14.17:166][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042459s)
+[2018.04.14-15.14.17:167][797]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-15.14.17:167][797]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2018.04.14-15.14.17:167][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044170s)
+[2018.04.14-15.14.17:203][797]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-15.14.17:233][797]LogInit: FAudioDevice initialized.
+[2018.04.14-15.14.17:349][797]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-15.14.17:354][797]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-15.14.17:357][797]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-15.14.17:358][797]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-11.14.17
+[2018.04.14-15.14.17:360][797]LogWorld: Bringing up level for play took: 0.009411
+[2018.04.14-15.14.17:373][797]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.178
+[2018.04.14-15.14.17:393][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.14.17:394][797]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.14.17:653][805]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.14.18:554][834]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.14.19:155][853]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.14.20:124][884]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.14.20:718][899]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.14.20:719][899]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.14.21:324][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.14.21:450][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.14.21:500][905]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-15.14.21:611][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.14.23:543][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_LP)
+[2018.04.14-15.14.23:777][957]Cmd: EDIT CUT
+[2018.04.14-15.14.23:817][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.14.23:840][957]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.04.14-15.14.24:905][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair_Lp)
+[2018.04.14-15.14.25:222][  0]Cmd: EDIT CUT
+[2018.04.14-15.14.25:242][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.14.25:429][  0]LogEditorActor: Deleted 1 Actors (0.201 secs)
+[2018.04.14-15.14.28:957][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair_Lp10)
+[2018.04.14-15.14.29:606][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp11)
+[2018.04.14-15.14.30:077][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_LP3)
+[2018.04.14-15.14.30:838][185]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp12)
+[2018.04.14-15.14.31:318][202]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp9)
+[2018.04.14-15.14.52:994][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2018.04.14-15.14.53:375][953]Cmd: EDIT CUT
+[2018.04.14-15.14.53:390][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.14.53:409][953]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.04.14-15.14.54:209][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair_Lp36)
+[2018.04.14-15.14.54:602][992]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_LP9)
+[2018.04.14-15.14.55:103][  8]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp33)
+[2018.04.14-15.14.55:746][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp34)
+[2018.04.14-15.14.56:299][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair_Lp35)
+[2018.04.14-15.14.59:577][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2018.04.14-15.14.59:842][160]Cmd: EDIT CUT
+[2018.04.14-15.14.59:854][160]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-15.14.59:871][160]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.04.14-15.15.02:930][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.15.03:015][266]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-15.15.03:052][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.15.03:052][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-15.15.03:052][266]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 7:15:03 AM)
+[2018.04.14-15.15.03:052][266]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-15.15.03:079][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026553s)
+[2018.04.14-15.15.03:080][266]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-15.15.03:080][266]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2018.04.14-15.15.03:080][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027835s)
+[2018.04.14-15.15.03:104][266]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-15.15.03:125][266]LogInit: FAudioDevice initialized.
+[2018.04.14-15.15.03:229][266]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-15.15.03:233][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-15.15.03:237][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-15.15.03:238][266]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-11.15.03
+[2018.04.14-15.15.03:239][266]LogWorld: Bringing up level for play took: 0.008978
+[2018.04.14-15.15.03:249][266]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.055
+[2018.04.14-15.15.03:249][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.15.03:250][266]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.03:576][274]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.04:126][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.04:495][302]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.05:168][322]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.05:806][342]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.06:265][355]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.06:538][363]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.06:874][374]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.07:479][392]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.07:964][407]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.08:185][413]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.08:432][421]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.09:062][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.09:062][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.09:299][446]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.09:811][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.10:114][471]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.10:367][479]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.10:701][489]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.10:837][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.10:963][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.11:200][503]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.11:700][518]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.12:313][537]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.12:518][543]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.12:886][553]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.13:131][561]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.13:352][567]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.13:967][586]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.14:332][596]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.14:550][602]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.14:807][611]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.15:422][630]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.15:541][633]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.15:748][640]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.16:127][651]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.16:503][662]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.17:100][681]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.17:178][683]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.17:768][701]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.18:283][716]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.18:790][730]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.19:130][740]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.15.19:757][759]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.15.19:759][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.15.19:786][759]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-15.15.19:826][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.16.02:747][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.16.11:367][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.16.11:398][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\JonathanChouinard\Desktop\sfx_squeak001.wav)
+[2018.04.14-15.16.11:434][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\JonathanChouinard\Desktop\sfx_squeak002.wav)
+[2018.04.14-15.16.11:450][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\JonathanChouinard\Desktop\sfx_squeak003.wav)
+[2018.04.14-15.16.11:456][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\JonathanChouinard\Desktop\sfx_squeak004a.wav)
+[2018.04.14-15.16.11:463][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\JonathanChouinard\Desktop\sfx_squeak004b.wav)
+[2018.04.14-15.16.28:770][166]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx_squeak002...
+[2018.04.14-15.16.28:804][166]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Mojam/Sound/sfx_squeak002.sfx_squeak002.
+[2018.04.14-15.16.29:611][195]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx_squeak001...
+[2018.04.14-15.16.29:629][195]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Mojam/Sound/sfx_squeak001.sfx_squeak001.
+[2018.04.14-15.16.30:450][224]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx_squeak003...
+[2018.04.14-15.16.30:465][224]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Mojam/Sound/sfx_squeak003.sfx_squeak003.
+[2018.04.14-15.16.36:336][406]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.14-15.16.36:477][406]LogSlate: Took 0.008140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.14-15.17.17:936][873]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx_squeak004a...
+[2018.04.14-15.17.17:949][873]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Mojam/Sound/sfx_squeak004a.sfx_squeak004a.
+[2018.04.14-15.17.18:633][897]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx_squeak004b...
+[2018.04.14-15.17.18:647][897]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Mojam/Sound/sfx_squeak004b.sfx_squeak004b.
+[2018.04.14-15.17.23:009][ 43]LogSavePackage: Save=15.07ms
+[2018.04.14-15.17.23:009][ 43]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/Cue_FootstepWood553B0B8C44DABC02AE162490C9DF4A66.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/Cue_FootstepWood.uasset'
+[2018.04.14-15.17.23:015][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/Cue_FootstepWood.uasset
+[2018.04.14-15.17.24:410][ 93]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-15.17.24:447][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.17.24:447][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-15.17.24:448][ 93]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 7:17:24 AM)
+[2018.04.14-15.17.24:448][ 93]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-15.17.24:481][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032775s)
+[2018.04.14-15.17.24:483][ 93]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-15.17.24:483][ 93]LogPlayLevel: PIE: World Init took: (0.001774s)
+[2018.04.14-15.17.24:483][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034947s)
+[2018.04.14-15.17.24:506][ 93]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-15.17.24:532][ 93]LogInit: FAudioDevice initialized.
+[2018.04.14-15.17.24:634][ 93]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-15.17.24:637][ 93]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-15.17.24:640][ 93]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-15.17.24:640][ 93]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-11.17.24
+[2018.04.14-15.17.24:641][ 93]LogWorld: Bringing up level for play took: 0.006945
+[2018.04.14-15.17.24:652][ 93]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.542
+[2018.04.14-15.17.24:652][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.17.24:653][ 93]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.24:985][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.30:182][261]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.30:755][278]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.30:772][279]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.31:273][295]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.31:913][314]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.32:394][329]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.32:735][341]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.33:224][356]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.33:534][366]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.33:783][373]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.34:376][391]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.34:980][410]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.37:270][481]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.37:650][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.37:984][503]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.38:238][511]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.38:459][518]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.39:072][536]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.39:664][554]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.40:025][565]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.17.40:643][584]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.17.41:009][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.17.41:035][596]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-15.17.41:094][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.18.07:662][549]LogSavePackage: Save=13.88ms
+[2018.04.14-15.18.07:662][549]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/Cue_FootstepWoodB027462144792DC0F6F98BA3CE2C19B0.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/Cue_FootstepWood.uasset'
+[2018.04.14-15.18.07:666][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/Cue_FootstepWood.uasset
+[2018.04.14-15.18.08:973][600]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-15.18.09:003][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.18.09:003][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-15.18.09:004][600]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 7:18:09 AM)
+[2018.04.14-15.18.09:004][600]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-15.18.09:029][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025159s)
+[2018.04.14-15.18.09:030][600]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-15.18.09:030][600]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.04.14-15.18.09:030][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026212s)
+[2018.04.14-15.18.09:053][600]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-15.18.09:074][600]LogInit: FAudioDevice initialized.
+[2018.04.14-15.18.09:178][600]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-15.18.09:181][600]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-15.18.09:185][600]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-15.18.09:186][600]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-11.18.09
+[2018.04.14-15.18.09:189][600]LogWorld: Bringing up level for play took: 0.009934
+[2018.04.14-15.18.09:199][600]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.005
+[2018.04.14-15.18.09:200][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.18.09:200][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.09:558][612]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.10:182][631]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.10:323][636]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.10:956][655]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.11:146][661]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.11:407][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.11:631][676]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.12:261][694]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.12:406][698]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.12:602][704]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.13:114][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.13:759][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.13:919][744]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.14:137][750]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.14:383][758]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.14:639][765]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.15:241][784]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.15:700][798]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.15:827][802]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.16:460][821]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.17:137][842]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.17:705][860]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.18:611][887]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.19:148][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.22:312][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.22:666][  9]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-15.18.23:293][ 28]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-15.18.23:326][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.18.23:357][ 29]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-15.18.23:400][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-15.18.24:611][ 55]LogSavePackage: Save=313.68ms
+[2018.04.14-15.18.24:611][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap809A3A1B4B62013D494FC78C647F3037.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.18.24:614][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.18.24:659][ 55]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.469
+[2018.04.14-15.18.24:677][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mojam/Sound/sfx_squeak001" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak001.uasset" SILENT=true
+[2018.04.14-15.18.24:689][ 55]LogSavePackage: Save=9.52ms
+[2018.04.14-15.18.24:689][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/sfx_squeak0012A98DA1E444006B2A59A4193BE03D635.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak001.uasset'
+[2018.04.14-15.18.24:693][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak001.uasset
+[2018.04.14-15.18.24:706][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mojam/Sound/sfx_squeak002" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak002.uasset" SILENT=true
+[2018.04.14-15.18.24:720][ 55]LogSavePackage: Save=10.00ms
+[2018.04.14-15.18.24:720][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/sfx_squeak002D45D37CA45370D8A90BAD4948F680876.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak002.uasset'
+[2018.04.14-15.18.24:726][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak002.uasset
+[2018.04.14-15.18.24:746][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mojam/Sound/sfx_squeak003" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak003.uasset" SILENT=true
+[2018.04.14-15.18.24:760][ 55]LogSavePackage: Save=9.41ms
+[2018.04.14-15.18.24:760][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/sfx_squeak0036821A18D4B7672D2AA335AB72492F7F5.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak003.uasset'
+[2018.04.14-15.18.24:765][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak003.uasset
+[2018.04.14-15.18.24:791][ 55]LogSavePackage: Save=9.35ms
+[2018.04.14-15.18.24:791][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/sfx_squeak004a3E5A50914191472677422A912FC21746.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak004a.uasset'
+[2018.04.14-15.18.24:796][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak004a.uasset
+[2018.04.14-15.18.24:929][ 55]LogSavePackage: Save=9.24ms
+[2018.04.14-15.18.24:929][ 55]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/sfx_squeak004b4F10AD8647B2792E2FFFF0805FE2D456.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak004b.uasset'
+[2018.04.14-15.18.24:935][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Sound/sfx_squeak004b.uasset
+[2018.04.14-15.18.33:775][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.19.20:003][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.19.25:313][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_LP5)
+[2018.04.14-15.19.59:441][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.20.16:473][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.20.30:282][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.20.35:627][ 89]Cmd: TRANSACTION UNDO
+[2018.04.14-15.20.35:627][ 89]LogEditorTransaction: Undo Edit Z
+[2018.04.14-15.20.35:669][ 89]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.04.14-15.20.48:833][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.20.58:273][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.21.04:816][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.21.17:051][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.21.20:865][609]Cmd: EDIT CUT
+[2018.04.14-15.21.20:887][609]LogEditorActor: Deleted Actor: Brush
+[2018.04.14-15.21.20:943][609]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2018.04.14-15.21.36:431][123]Cmd: EDIT CUT
+[2018.04.14-15.21.36:459][123]LogEditorActor: Deleted Actor: Brush
+[2018.04.14-15.21.36:522][123]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2018.04.14-15.21.39:569][228]Cmd: EDIT CUT
+[2018.04.14-15.21.39:598][228]LogEditorActor: Deleted Actor: Brush
+[2018.04.14-15.21.39:654][228]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.04.14-15.22.01:178][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire31)
+[2018.04.14-15.22.01:525][944]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire30)
+[2018.04.14-15.22.01:926][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire16)
+[2018.04.14-15.22.02:198][963]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire15)
+[2018.04.14-15.22.02:723][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire14)
+[2018.04.14-15.22.03:374][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Armoire13)
+[2018.04.14-15.22.14:993][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.22.15:622][398]LogSavePackage: Save=459.07ms
+[2018.04.14-15.22.15:622][398]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap4FD1B8B84D190B94423A4BA702FB20CD.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.22.15:630][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.22.15:699][398]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.674
+[2018.04.14-15.22.39:675][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.22.46:435][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.22.57:657][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.23.09:360][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.25.30:490][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.01:974][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.04:983][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.06:218][296]Cmd: POLY TEXSCALE  UU=0.500000 VV=1.000000
+[2018.04.14-15.26.08:511][374]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.04.14-15.26.12:434][510]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2018.04.14-15.26.19:019][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.22:070][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.23:654][882]Cmd: POLY TEXSCALE  UU=0.200000 VV=1.000000
+[2018.04.14-15.26.25:792][956]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.26.29:969][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.32:517][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.34:617][255]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.26.39:525][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.41:540][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.48:126][714]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.333333
+[2018.04.14-15.26.50:507][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.26.52:806][874]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.333333
+[2018.04.14-15.26.54:118][919]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=1.000000 VU=-1.000000
+[2018.04.14-15.27.07:656][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.27.09:795][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.27.13:933][602]Cmd: POLY TEXSCALE  UU=0.083333 VV=0.083333
+[2018.04.14-15.27.16:088][676]Cmd: POLY TEXSCALE  UU=0.083333 VV=0.166667
+[2018.04.14-15.27.18:362][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire25)
+[2018.04.14-15.27.18:750][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armoire30)
+[2018.04.14-15.27.20:081][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.27.20:752][799]LogSavePackage: Save=478.32ms
+[2018.04.14-15.27.20:752][799]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMapAAB457AB4E560ACFC980958D41C57F93.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.27.20:766][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.27.20:843][799]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.738
+[2018.04.14-15.27.50:848][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.27.53:271][920]Cmd: POLY TEXSCALE  UU=0.333333 VV=0.333333
+[2018.04.14-15.27.54:936][977]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2018.04.14-15.28.03:441][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.06:736][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.09:400][462]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.083333
+[2018.04.14-15.28.15:854][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.23:026][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.26:338][ 38]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.500000
+[2018.04.14-15.28.29:237][140]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.250000
+[2018.04.14-15.28.36:768][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.38:392][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.42:489][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.47:601][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.49:288][804]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.333333
+[2018.04.14-15.28.57:393][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.28.58:944][127]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.250000
+[2018.04.14-15.29.04:281][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.08:174][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.14:615][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.16:686][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.18:384][775]Cmd: TRANSACTION UNDO
+[2018.04.14-15.29.18:384][775]LogEditorTransaction: Undo Create Actors
+[2018.04.14-15.29.18:423][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.04.14-15.29.18:423][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.04.14-15.29.18:423][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.04.14-15.29.18:423][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.04.14-15.29.18:424][775]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985' invalid (6673 verts, 0 indices).
+[2018.04.14-15.29.18:425][775]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2985.BodySetup_2986 when we are unable to.
+[2018.04.14-15.29.18:879][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.20:690][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.21:773][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.29.22:284][882]LogSavePackage: Save=344.40ms
+[2018.04.14-15.29.22:284][882]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMapE40682BD4612EE2411C9CE85C729672B.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.29.22:302][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.29.22:371][882]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.560
+[2018.04.14-15.29.57:254][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.29.57:340][ 76]Cmd: MODE GRID=0
+[2018.04.14-15.30.01:442][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.30.01:486][220]Cmd: MODE SCALEGRID=0
+[2018.04.14-15.30.31:146][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.30.34:238][346]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.14-15.33.19:172][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.33.19:728][ 81]LogSavePackage: Save=377.09ms
+[2018.04.14-15.33.19:728][ 81]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap208CA59D4C3617D2378A6586FC379F02.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.33.19:733][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.33.19:801][ 81]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.593
+[2018.04.14-15.33.26:769][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.33.27:836][353]LogMaterial: Missing cached shader map for material Green_Book, compiling. 
+[2018.04.14-15.33.28:268][353]LogMaterial: Missing cached shader map for material Green_Book, compiling. 
+[2018.04.14-15.33.28:282][353]LogMaterial: Missing cached shader map for material Green_Book, compiling. 
+[2018.04.14-15.33.28:301][353]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.28:301][353]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.28:301][353]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.33.28:326][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.14-15.33.32:032][481]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-15.33.32:056][481]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-15.33.32:062][481]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-15.33.32:871][508]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-15.33.32:962][509]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-15.33.32:965][509]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-15.33.33:640][533]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-15.33.34:181][549]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.14-15.33.34:275][553]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.14-15.33.35:433][590]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.14-15.33.35:595][597]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.14-15.33.36:042][611]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.14-15.33.38:607][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Book" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset" SILENT=true
+[2018.04.14-15.33.38:638][711]LogSavePackage: Save=26.25ms
+[2018.04.14-15.33.38:638][711]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/M_Book79C86A9E493778FA5CCA64AD61DBB382.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset'
+[2018.04.14-15.33.38:644][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset
+[2018.04.14-15.33.38:929][712]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.14-15.33.38:929][712]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.14-15.33.39:236][725]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.14-15.33.39:395][730]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.40:021][730]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.40:040][730]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.40:040][730]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.40:044][730]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.40:091][730]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.14-15.33.40:981][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.14-15.33.41:620][784]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.14-15.33.41:735][788]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.41:862][792]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.42:179][803]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.33.42:376][810]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-15.33.42:488][811]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-15.33.42:492][811]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.42:515][811]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.14-15.33.42:527][811]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.14-15.33.42:573][811]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.42:618][811]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.14-15.33.43:208][834]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.14-15.33.43:329][837]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.43:381][839]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.14-15.33.43:576][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.14-15.33.44:194][870]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.14-15.33.44:341][876]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.44:444][879]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.44:733][888]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.44:781][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.14-15.33.46:507][958]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.14-15.33.46:583][958]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.46:836][966]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.14-15.33.46:885][968]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.14-15.33.48:189][ 17]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.48:320][ 22]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.48:475][ 27]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.33.48:976][ 45]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-15.33.49:040][ 47]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-15.33.49:183][ 52]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-15.33.49:556][ 65]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-15.33.49:729][ 71]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-15.33.49:962][ 80]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-15.33.50:170][ 87]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-15.33.50:643][102]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.50:668][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.14-15.33.50:707][102]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.50:968][114]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.14-15.33.51:373][127]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.14-15.33.51:478][131]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.51:853][142]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.51:873][142]LogMaterialEditor: Saving and Compiling material M_Book
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-15.33.53:119][142]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-15.33.53:145][142]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.53:253][142]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.53:311][142]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.33.53:386][142]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Book, compiling. 
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.14-15.33.56:523][142]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-15.33.56:526][142]TextureStreamingBuild: Display: Compiling optional shaders took 3.150 seconds.
+[2018.04.14-15.34.01:170][142]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.14-15.34.01:203][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Book" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset" SILENT=true
+[2018.04.14-15.34.01:252][142]LogSavePackage: Save=18.81ms
+[2018.04.14-15.34.01:253][142]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/M_Book8A503D0D4FEE127BDB2EF7BD1907A514.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset'
+[2018.04.14-15.34.01:259][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Material/M_Book.uasset
+[2018.04.14-15.34.01:276][142]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.14-15.34.01:276][142]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.14-15.34.01:276][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.14-15.34.01:276][142]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.14-15.34.01:276][142]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.14-15.34.09:408][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.34.12:498][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.34.13:637][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.34.41:011][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.34.56:727][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.07:942][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.08:987][440]Cmd: POLY TEXSCALE  UU=1.000000 VV=0.333333
+[2018.04.14-15.35.09:812][468]Cmd: POLY TEXSCALE  UU=1.000000 VV=0.333333
+[2018.04.14-15.35.12:546][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.13:531][596]Cmd: POLY TEXSCALE  UU=1.000000 VV=0.200000
+[2018.04.14-15.35.15:626][669]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2018.04.14-15.35.19:756][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.20:558][833]Cmd: POLY TEXSCALE  UU=1.000000 VV=0.200000
+[2018.04.14-15.35.23:438][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.24:250][959]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.35.31:452][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.33:717][285]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.35.36:338][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.35.37:529][415]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.35.39:617][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.35.41:454][547]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2018.04.14-15.35.42:850][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.35.43:429][593]LogSavePackage: Save=406.57ms
+[2018.04.14-15.35.43:429][593]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap0A68985940F9B62E3BC16E8C2FEC09A8.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.35.43:435][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.35.43:509][593]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.625
+[2018.04.14-15.36.00:048][146]Cmd: TRANSACTION UNDO
+[2018.04.14-15.36.00:049][146]LogEditorTransaction: Undo Move Actors
+[2018.04.14-15.36.00:086][146]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2018.04.14-15.36.00:168][146]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.36.00:191][146]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.36.00:191][146]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.36.00:191][146]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.36.02:805][240]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-15.36.02:827][241]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-15.36.02:986][246]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-15.36.14:213][671]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-15.36.14:333][676]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-15.36.14:809][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-15.36.22:123][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-15.36.35:177][547]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.14-15.36.38:072][670]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.14-15.36.43:921][912]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.14-15.36.51:381][227]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.14-15.37.02:200][675]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.14-15.37.12:189][ 98]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.14-15.37.14:655][199]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.14-15.37.14:678][200]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.14-15.37.33:194][982]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.14-15.37.33:194][982]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.14-15.37.33:194][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.14-15.37.33:194][982]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.14-15.37.33:194][982]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.14-15.37.42:488][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.37.42:970][306]LogSavePackage: Save=372.13ms
+[2018.04.14-15.37.42:970][306]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap30881BA5471B1B4EE30DE8B70BE5E2CE.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.37.42:975][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.37.44:768][306]LogSavePackage: Save=1706.92ms
+[2018.04.14-15.37.44:768][306]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap_BuiltDataABCA31D94D9C74D9BEC037B60984D83C.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.04.14-15.37.44:772][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.04.14-15.53.30:294][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.53.39:413][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.53.39:496][649]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2018.04.14-15.53.41:390][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.53.41:886][746]LogSavePackage: Save=367.95ms
+[2018.04.14-15.53.41:886][746]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap876FC4EC4516E54721E7F6988573E1D3.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-15.53.41:894][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-15.53.43:427][746]LogSavePackage: Save=1406.55ms
+[2018.04.14-15.53.43:427][746]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap_BuiltData308DDD0245429E0B12BD84B01857D589.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.04.14-15.53.43:431][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.04.14-15.53.45:830][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.53.48:446][991]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2018.04.14-15.53.56:346][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.53.59:581][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.54.09:675][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.54.22:448][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube22)
+[2018.04.14-15.54.22:812][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube23)
+[2018.04.14-15.54.26:774][879]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (EditorCube22)
+[2018.04.14-15.54.26:838][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.54.27:407][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube22)
+[2018.04.14-15.54.28:257][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube23)
+[2018.04.14-15.54.29:447][984]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_VampireBody_C (BP_VampireBody)
+[2018.04.14-15.54.54:665][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.54.57:119][358]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.04.14-15.54.59:506][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.55.05:597][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.55.25:155][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.58.07:384][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.58.09:757][533]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.04.14-15.58.10:374][554]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.04.14-15.58.16:687][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.58.51:500][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.58.58:218][ 14]LogActorFactory: Actor Factory created SM_Door
+[2018.04.14-15.58.58:264][ 15]LogActorFactory: Actor Factory created SM_Door
+[2018.04.14-15.59.06:143][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.59.12:227][329]Cmd: TRANSACTION UNDO
+[2018.04.14-15.59.12:227][329]LogEditorTransaction: Undo Paste Location
+[2018.04.14-15.59.12:277][329]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.59.12:301][329]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-15.59.12:301][329]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-15.59.12:301][329]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-15.59.16:764][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.14-15.59.17:674][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.59.20:196][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.04.14-15.59.22:834][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-15.59.36:354][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-15.59.38:074][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.14-15.59.41:541][178]Cmd: TRANSACTION UNDO
+[2018.04.14-15.59.41:541][178]LogEditorTransaction: Undo Move Actors
+[2018.04.14-15.59.41:785][178]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-15.59.42:583][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.04.14-16.00.01:251][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.04.14-16.00.01:933][738]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.14-16.00.04:675][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-16.00.06:464][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-16.00.16:042][251]LogSlate: Window 'Select Path' being destroyed
+[2018.04.14-16.00.16:216][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-16.00.17:233][251]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0027 seconds. Added 116 classes and 0 folders.
+[2018.04.14-16.00.19:559][252]LogRenderer: Reallocating scene render targets to support 892x824 Format 9 NumSamples 1 (Frame:1).
+[2018.04.14-16.00.48:638][998]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-16.00.48:639][998]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-16.00.48:949][  9]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-16.00.50:062][ 49]BlueprintLog: New page: Compile BP_Door
+[2018.04.14-16.00.50:853][ 49]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-16.01.04:799][543]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-16.01.05:722][579]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.14-16.01.09:784][724]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.14-16.01.32:413][289]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.14-16.01.32:598][289]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-16.01.34:233][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-16.01.36:793][367]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-16.01.38:350][405]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-16.01.39:804][455]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-16.01.42:754][560]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-16.01.42:888][566]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-16.01.43:801][597]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-16.01.53:336][920]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-16.01.54:720][974]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-16.01.56:490][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-16.02.08:843][562]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-16.02.12:718][710]BlueprintLog: New page: Compile BP_Door
+[2018.04.14-16.02.16:233][806]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.14-16.02.18:414][885]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.14-16.02.21:976][  8]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.14-16.02.24:991][121]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.14-16.02.46:066][709]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.14-16.02.49:402][744]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.14-16.02.50:098][763]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.14-16.02.50:967][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.14-16.03.06:287][370]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.14-16.03.06:287][370]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.14-16.03.06:287][370]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.14-16.03.06:287][370]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.14-16.03.06:287][370]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.14-16.03.08:815][469]BlueprintLog: New page: Compile BP_Door
+[2018.04.14-16.03.10:526][504]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-16.03.10:591][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.10:592][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-16.03.10:593][504]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 8:03:10 AM)
+[2018.04.14-16.03.10:593][504]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-16.03.10:835][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.241656s)
+[2018.04.14-16.03.10:836][504]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-16.03.10:836][504]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2018.04.14-16.03.10:837][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.243677s)
+[2018.04.14-16.03.10:918][504]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-16.03.10:951][504]LogInit: FAudioDevice initialized.
+[2018.04.14-16.03.11:251][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-16.03.11:262][504]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-16.03.11:269][504]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-16.03.11:270][504]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-12.03.11
+[2018.04.14-16.03.11:276][504]LogWorld: Bringing up level for play took: 0.022641
+[2018.04.14-16.03.11:279][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-16.03.11:289][504]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.143
+[2018.04.14-16.03.11:290][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.11:291][504]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.11:886][509]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-16.03.12:583][529]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.12:693][533]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.12:834][537]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.13:306][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.13:357][550]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-16.03.13:413][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.19:644][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-16.03.21:629][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-16.03.22:817][630]LogSavePackage: Save=833.50ms
+[2018.04.14-16.03.22:817][630]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/FirstPersonExampleMap61BA301F40E1F6009699C3AB22B4FE58.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.14-16.03.22:828][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.14-16.03.22:928][630]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.283
+[2018.04.14-16.03.22:968][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mojam/Gameplay/BP_Door" FILE="../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Gameplay/BP_Door.uasset" SILENT=true
+[2018.04.14-16.03.23:051][630]LogSavePackage: Save=78.90ms
+[2018.04.14-16.03.23:051][630]LogSavePackage: Moving '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Saved/BP_Door969EF8DF466416EBA906F8ACDDBE73AB.tmp' to '../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Gameplay/BP_Door.uasset'
+[2018.04.14-16.03.23:056][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/JonathanChouinard/Documents/Unreal Projects/MojamTruthFPS/Content/Mojam/Gameplay/BP_Door.uasset
+[2018.04.14-16.03.26:036][733]LogEditorViewport: Clicking on Actor (LMB): Mojam_PlayerCharacter_C (FirstPersonCharacter)
+[2018.04.14-16.03.30:008][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2018.04.14-16.03.36:341][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2018.04.14-16.03.39:100][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-16.03.39:178][203]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-16.03.56:727][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.56:728][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-16.03.56:728][203]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2018, 8:03:56 AM)
+[2018.04.14-16.03.56:728][203]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.04.14-16.03.56:789][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060741s)
+[2018.04.14-16.03.56:791][203]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.14-16.03.56:791][203]LogPlayLevel: PIE: World Init took: (0.001951s)
+[2018.04.14-16.03.56:791][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.063050s)
+[2018.04.14-16.03.56:896][203]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-16.03.56:932][203]LogInit: FAudioDevice initialized.
+[2018.04.14-16.03.57:063][203]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.14-16.03.57:070][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_VampireBody_92.CharacterMesh0'
+[2018.04.14-16.03.57:074][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_MansionBoss_33.CharacterMesh0'
+[2018.04.14-16.03.57:076][203]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.04.14-12.03.57
+[2018.04.14-16.03.57:078][203]LogWorld: Bringing up level for play took: 0.012272
+[2018.04.14-16.03.57:091][203]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.342
+[2018.04.14-16.03.57:092][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.03.57:093][203]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.57:359][211]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-16.03.58:852][256]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.58:982][260]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.59:212][267]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.59:799][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.03.59:918][287]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.00:514][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.00:997][319]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.01:134][323]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.01:782][341]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-16.04.01:955][347]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.02:531][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-16.04.04:113][410]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] move
+[2018.04.14-16.04.04:688][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] completed
+[2018.04.14-16.04.05:635][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.04.05:689][455]LogSlate: Window 'MojamTruthFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.14-16.04.05:745][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.14-16.04.09:232][579]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2018.04.14-16.04.11:489][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-16.04.50:608][911]Cmd: TRANSACTION UNDO
+[2018.04.14-16.04.50:609][911]LogEditorTransaction: Undo Scale Actors
+[2018.04.14-16.04.50:664][911]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.04.14-16.04.50:679][911]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.04.14-16.04.50:752][911]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-16.04.50:775][911]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-16.04.50:775][911]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-16.04.50:775][911]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-16.04.53:045][990]Cmd: TRANSACTION UNDO
+[2018.04.14-16.04.53:045][990]LogEditorTransaction: Undo Scale Actors
+[2018.04.14-16.04.53:099][990]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.04.14-16.04.53:126][990]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.04.14-16.04.53:231][990]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-16.04.53:998][ 17]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-16.04.54:278][ 27]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-16.04.54:362][ 30]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-16.04.55:390][ 65]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-16.04.55:543][ 70]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-16.04.55:762][ 78]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-16.04.57:145][127]Cmd: POLY SELECT ADJACENT WALLS
+[2018.04.14-16.04.57:232][128]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-16.04.57:283][129]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-16.04.57:518][135]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.14-16.05.01:084][282]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.14-16.05.04:795][414]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.14-16.05.05:072][421]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2018.04.14-16.05.05:313][427]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.14-16.05.07:501][510]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.14-16.05.08:875][558]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.14-16.05.09:381][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-16.05.09:485][580]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.14-16.05.12:156][674]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.14-16.05.12:234][677]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.14-16.05.12:822][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-16.05.13:331][716]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.14-16.05.14:665][759]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.14-16.05.14:665][759]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.14-16.05.14:665][759]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.14-16.05.14:665][759]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.14-16.05.14:665][759]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.14-16.05.15:706][793]LogEditorTransaction: Undo Set Scale
+[2018.04.14-16.05.15:755][793]LogMaterial: Missing cached shader map for material M_Book, compiling. 
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.14-16.05.16:776][793]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.14-16.05.16:776][793]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.005 s
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: 
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: 
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: Stack: 
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: [Callstack] 0x000000003FA3B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: [Callstack] 0x000000003F79AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: [Callstack] 0x000000003F7AECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.14-16.05.16:776][793]LogOutputDevice: Error: [Callstack] 0x000000001B31D23C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001B2C93EF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x0000000017322BCB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x00000000173239C5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x00000000172D5030 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x00000000172D9C67 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002BAB3B20 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002BAA9031 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002BA7D797 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002BA7F9F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002BB158E5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002B935A74 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000002B8D7584 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A9AFB14 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A733469 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A6CF7AC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A6D44AC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001AA97989 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001AA4795B UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001AA4B8FA UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001AA49C87 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001AA9E02C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A67C6F0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A6F67ED UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:777][793]LogOutputDevice: Error: [Callstack] 0x000000001A73FCDD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B2CA0A6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B2F2062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B2D9329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B2D9C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B34019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001B381F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001A6CFE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001A6D4BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B8D8376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B914BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001BB2059E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000001BB0BB3C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B8C4D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B896D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B8988F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B9163CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x000000002B9099C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000052ADE3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000052AD1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000052AE052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000052ACD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x00000000750AB85D USER32.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x00000000750AB1EF USER32.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000052AE1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000065105475 UE4Editor.exe!UnknownFunction []
+[2018.04.14-16.05.16:778][793]LogOutputDevice: Error: [Callstack] 0x0000000065116BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: [Callstack] 0x0000000065116C4A UE4Editor.exe!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: [Callstack] 0x0000000065124149 UE4Editor.exe!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: [Callstack] 0x0000000065125B57 UE4Editor.exe!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: [Callstack] 0x0000000075241FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: [Callstack] 0x000000007737F061 ntdll.dll!UnknownFunction []
+[2018.04.14-16.05.16:779][793]LogOutputDevice: Error: 
+[2018.04.14-16.05.16:787][793]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.14-16.05.17:915][793]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-16.05.17:916][793]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.14-16.05.17:916][793]LogShaderCompilers: Display: Shaders left to compile 10
